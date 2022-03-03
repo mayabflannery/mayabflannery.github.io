@@ -2,8 +2,10 @@
 
 ---
 
+Example.
+
 Maya B. Flannery
-</> LIQUID
+
 <ul>
   {% for post in site.posts %}
     <li>
@@ -11,3 +13,5 @@ Maya B. Flannery
     </li>
   {% endfor %}
 </ul>
+
+Ex two.
