@@ -1,8 +1,19 @@
 ---
-
+layout: home
+title: Testing website
 ---
 
-Example.
+# Heading
+
+{% for page in site.pages %}
+
+Page title: {{ page.title }}
+
+- Page URL: {{ page.url }}
+
+{% endfor%}
+
+## Example.
 
 Maya B. Flannery
 
