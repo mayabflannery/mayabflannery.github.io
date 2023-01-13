@@ -1,6 +1,7 @@
 ---
-layout: post
 title: "Site creation"
+categories:
+  - Blog
 ---
 
 # Header
