@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Maya B. Flannery"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Science | Music | Psychology"
+  bio    : "PhD Student investigating the mechanisms of music preference."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -69,9 +69,6 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/mayabflannery"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/mayabflannery"
 
 footer:
   links:
@@ -81,9 +78,6 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/mayabflannery"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/mayabflannery"
 
 defaults:
   # _posts

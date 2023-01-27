@@ -7,12 +7,42 @@ title: "Curriculum Vitae"
 
 **Master of Science**  
 McMaster University (2022)  
-Thesis title: *From algorithm to cognition: Music acoustic features and their perceptual correlates*
+Thesis: *From algorithm to cognition: Music acoustic features and their perceptual correlates*
 
 **Honours Bachelor of Arts**  
 McMaster University (2020)  
 Major: Psychology, Neuroscience & Behaviour (Music Cognition)  
 Minor: Music
+
+## Research Experience
+
+### Digital Music Lab, McMaster University
+
+Doctoral Research (In progress) -- Model music preference with respect to personality, mood, familiarity, complexity, and music acoustic features.
+
+Collaborative work (In progress) -- Extract music features from live and prerecorded audio tracks; investigate relationship with audience’s head movement.
+
+Master's Thesis (2022) -- Developed and tested manipulable and objectively measurable *music acoustic features* for use in music classification and description.
+
+Honours Thesis (2020) -- Investigated correlation of personality factors and music preference with systematic manipulation of musical stimuli.
+
+Research Practicum (2019) -- Examined music listening behaviour with analysis of a large dataset.
+
+Research Practicum (2019) -- Investigated memory for musical key; assisted  with  creation  of  musical  stimuli;  conducted experiments with participants; programmed analysis of data.
+
+### LIVE Lab, McMaster University
+
+Lab Assistant (2018) -- Supported research projects with design, set up, execution, and clean up of experiments. Demonstrated lab technology: Active acoustics, Yamaha Disklavier piano, motion capture, live physiological response. Led tours for general public, colleges, high schools, day camps. Supported live performances: 10dB Concert series.
+
+## Skills
+
+### Programming
+
+Python (pandas, plotly, matplotlib, scikit-learn, kivy, PsychoPy), R (tidyverse, shiny, rstan), JavaScript (JsPsych).
+
+### Software
+
+Linux/Mac/Windows environments, Git, Docker, LaTeX, Markdown, Bitwig Studio, Reason, MuseScore.
 
 ## Publications
 
@@ -66,21 +96,15 @@ Hamilton Community Foundation Music Bursary (2018)
 
 Undergraduate Bursary (2017) 
 
-## Research Skills and Experience
+## Teaching
 
-### Research
+### Teaching and Learning Certificate 
 
-[TODO]
+Theory and Inquiry - Essential skills and Digital Literacies (In progress)
 
-### Programming
+### Teaching Assistantships
 
-Python, R, JavaScript
-
-### Software
-
-MS Office suite, Fusion 360, Auto CAD, Autodesk Motion Builder, Bitwig, Reason, MuseScore, Visual Studio, Git
-
-## Teaching Assistantships
+Introduction to Music Cognition (PSYCH 2MP3): Winter 2023
 
 Inferential Statistics and Research Methods (PNB 3XE3): Fall 2022
 
@@ -92,6 +116,11 @@ Integrative Psychology, Neuroscience & Behaviour Through Scientific Writing (PNB
 
 Personality Psychology (PSYCH 2B03): Fall 2020
 
+### Mentorship 
+
+Undergraduate mentor (In progress) -- Advise experiment design and analysis: music preference and skip-behaviour.
+
+Undergraduate mentor (2022) -- Advised experiment design and analysis: discrimination and description of music features.
 
 ## Additional Activities
 
@@ -103,4 +132,4 @@ Music Cognition and Auditory Perception Journal Club (2020--2021)
 
 Data Science Workshop Series & Certification (2020)
 
-Peer Support Volunteer (2016-2017)
+2SLGBTQIA+ Peer Support Volunteer (2017)
