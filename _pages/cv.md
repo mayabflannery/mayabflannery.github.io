@@ -30,6 +30,12 @@ Research Practicum (2019) -- Examined music listening behaviour with analysis of
 
 Research Practicum (2019) -- Investigated memory for musical key; assisted  with  creation  of  musical  stimuli;  conducted experiments with participants; programmed analysis of data.
 
+## Work Experience 
+
+### Data Analysis Support Hub (DASH)
+
+Data Analysis Support Assistant (2023) --  
+
 ### LIVE Lab, McMaster University
 
 Lab Assistant (2018) -- Supported research projects with design, set up, execution, and clean up of experiments. Demonstrated lab technology: Active acoustics, Yamaha Disklavier piano, motion capture, live physiological response. Led tours for general public, colleges, high schools, day camps. Supported live performances: 10dB Concert series.
@@ -74,6 +80,10 @@ Phillips, E., Pazdera, J., & **Flannery, M. B.** (December, 2021). *The open sci
 
 **Flannery, M. B.** (November, 2021). *Data formatting and visualization.* Presented to PNB 2A03 - Python for Psychology, Neuroscience & Behaviour. Hamilton, Canada.
 
+### Workshops
+
+**Flannery, M. B.** (April, 2023). *Cleaning up messy data with Python and pandas.* Data Analysis Support Hub (DASH) Workshop. Hamilton, Canada.
+
 ### Community Outreach
 
 Swierczek, K., Spyra, J., & **Flannery, M. B.** (2022). *A tale of two tones: Musical dissonance in perspective.* Science Rendezvous. Hamilton, Canada.
@@ -100,9 +110,11 @@ Undergraduate Bursary (2017)
 
 ### Teaching and Learning Certificate 
 
-Theory and Inquiry - Essential skills and Digital Literacies (In progress)
+Theory and Inquiry - Essential skills and Digital Literacies
 
 ### Teaching Assistantships
+
+Research Methods for Applied Psychology in Human Behaviour (HUMBEHV 3MD3): Spring 2023
 
 Introduction to Music Cognition (PSYCH 2MP3): Winter 2023
 
@@ -118,9 +130,9 @@ Personality Psychology (PSYCH 2B03): Fall 2020
 
 ### Mentorship 
 
-Undergraduate mentor (In progress) -- Advise experiment design and analysis: music preference and skip-behaviour.
+Undergraduate mentor (2023) -- Advised experiment design and analysis: Music preference and skip-behaviour.
 
-Undergraduate mentor (2022) -- Advised experiment design and analysis: discrimination and description of music features.
+Undergraduate mentor (2022) -- Advised experiment design and analysis: Discrimination and description of music features.
 
 ## Additional Activities
 
