@@ -13,10 +13,10 @@
 <loc>http://localhost:4000/categories/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/oldsite/contact/</loc>
+<loc>http://localhost:4000/contact/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/contact/</loc>
+<loc>http://localhost:4000/oldsite/contact/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/cv/</loc>
@@ -29,6 +29,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/oldsite/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/neuromusic19/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/projects/</loc>
@@ -45,5 +48,9 @@
 <url>
 <loc>http://localhost:4000/assets/pdfs/icmpc-17.pdf</loc>
 <lastmod>2023-08-18T13:01:22-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/pdfs/neuromusic-19.pdf</loc>
+<lastmod>2023-10-16T08:24:56-04:00</lastmod>
 </url>
 </urlset>
