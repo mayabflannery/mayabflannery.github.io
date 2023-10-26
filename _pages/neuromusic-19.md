@@ -10,8 +10,6 @@ tags:
 - machine learning
 ---
 
-## Coming soon!
-
 ## Automating music stimuli creation and analyses: A music synthesis algorithm for producing ground truth data
 
 ![Conference poster](/assets/images/neuromusic-19.png)
