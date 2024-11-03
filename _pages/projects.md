@@ -7,6 +7,8 @@ List of things I have worked on.
 
 ## Conference 
 
+[Naturalistic measurement of multi-person cardiac activity using open-source smartwatch technology]({% link _pages/neuromusic-2-.md %})
+
 ### NeuroMusic 19
 
 [Automating music stimuli creation and analyses: A music synthesis algorithm for producing ground truth data]({% link _pages/neuromusic-19.md %})
