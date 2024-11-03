@@ -7,7 +7,7 @@ List of things I have worked on.
 
 ## Conference 
 
-[Naturalistic measurement of multi-person cardiac activity using open-source smartwatch technology]({% link _pages/neuromusic-2-.md %})
+[Naturalistic measurement of multi-person cardiac activity using open-source smartwatch technology]({% link _pages/neuromusic-20.md %})
 
 ### NeuroMusic 19
 
