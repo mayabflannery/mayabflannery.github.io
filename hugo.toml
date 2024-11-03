@@ -1,0 +1,89 @@
+baseURL = 'https://example.org/'
+title = 'Maya Breanne Flannery'
+theme = "hugo-coder"
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+# Use pagination.pagerSize instead of 'paginate = 20'
+[pagination]
+pagerSize = 20
+
+[services]
+[services.disqus]
+disqusShortname = "yourdiscussshortname"
+
+[markup.highlight]
+style = "github-dark"
+
+[params]
+author = "Maya B. Flannery"
+info = "PhD Candidate"
+description = "My work"
+keywords = "blog,developer,personal,psychology,neuroscience,behaviour,research,cardiac,ppg,music"
+avatarurl = "images/avatar.jpg"
+#gravatar = "john.doe@example.com"
+
+faviconSVG = "/img/favicon.svg"
+favicon_32 = "/img/favicon-32x32.png"
+favicon_16 = "/img/favicon-16x16.png"
+
+since = 2019
+
+enableTwemoji = true
+
+colorScheme = "auto"
+hidecolorschemetoggle = false
+
+# customCSS = ["css/custom.css"]
+# customSCSS = ["scss/custom.scss"]
+# customJS = ["js/custom.js"]
+
+[taxonomies]
+category = "categories"
+series = "series"
+tag = "tags"
+author = "authors"
+
+# Social links
+[[params.social]]
+name = "Github"
+icon = "fa-brands fa-github fa-2x"
+weight = 1
+url = "https://github.com/mayabflannery"
+[[params.social]]
+name = "LinkedIn"
+icon = "fa fa-linkedin-square fa-2x"
+weight = 2
+url = "https://www.linkedin.com/in/mayabflannery/"
+[[params.social]]
+name = "Twitter"
+icon = "fa-brands fa-twitter fa-2x"
+weight = 3
+url = "https://twitter.com/mayabflannery/"
+[[params.social]]
+name = ""
+icon = "fa fa-building-o fa-2x"
+weight = 4
+url = "https://beatlab.mcmaster.ca"
+
+# Menu links
+[[menu.main]]
+name = "About"
+weight = 2
+url = "about/"
+[[menu.main]]
+name = "CV"
+weight = 2
+url = "cv/"
+[[menu.main]]
+name = "Projects"
+weight = 3
+url = "projects/"
+[[menu.main]]
+name = "Posts"
+weight = 5
+url = "posts/"
+[[menu.main]]
+name = "Contact"
+weight = 4
+url = "contact/"
