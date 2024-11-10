@@ -1,40 +1,56 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://mayabflannery.github.io'
 title = 'Maya Breanne Flannery'
 theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
+enableEmoji = true
 
 # Use pagination.pagerSize instead of 'paginate = 20'
 [pagination]
-pagerSize = 20
+pagerSize = 6
 
 [services]
 [services.disqus]
-disqusShortname = "yourdiscussshortname"
+# disqusShortname = "yourdiscussshortname"
 
+[markup]
 [markup.highlight]
 style = "github-dark"
+[markup.goldmark]
+[markup.goldmark.parser.attribute]
+block = true # for adding css to block (default is false)
+[markup.goldmark.renderer]
+# If raw html is needed
+# unsafe = true
+[markup.goldmark.extensions]
+[markup.goldmark.extensions.passthrough]
+enable = true
+[markup.goldmark.extensions.passthrough.delimiters]
+# See: https://gohugo.io/content-management/mathematics/
+block = [['\[', '\]'], ['$$', '$$']]
+inline = [['\(', '\)'], ['$', '$']]
 
 [params]
 author = "Maya B. Flannery"
-info = "PhD Candidate"
+info = ["PhD Candidate"]
 description = "My work"
-keywords = "blog,developer,personal,psychology,neuroscience,behaviour,research,cardiac,ppg,music"
+keywords = "developer,personal,psychology,neuroscience,behaviour,research,cardiac,ppg,music"
 avatarurl = "images/avatar.jpg"
 #gravatar = "john.doe@example.com"
+math = true
 
 faviconSVG = "/img/favicon.svg"
 favicon_32 = "/img/favicon-32x32.png"
 favicon_16 = "/img/favicon-16x16.png"
 
-since = 2019
+since = 2018
 
 enableTwemoji = true
 
 colorScheme = "auto"
 hidecolorschemetoggle = false
 
-# customCSS = ["css/custom.css"]
+customCSS = ["css/custom.css"]
 # customSCSS = ["scss/custom.scss"]
 # customJS = ["js/custom.js"]
 
