@@ -3,7 +3,10 @@ url = 'neuromusic20'
 date = '2024-10-26T09:00:00-04:00'
 draft = false
 title = 'NeuroMusic 20'
+description = "Nm 2020 description"
 +++
+
+## Models trained on procedurally generated stimuli predict human judgments of Music Acoustic Features in real-world music
 
 Poster presented at [NeuroMusic 20](https://www.neuromusic.ca/), McMaster University, Hamilton, Canada.
 
