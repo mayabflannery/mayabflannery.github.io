@@ -1,6 +1,6 @@
 +++
 date = '2024-11-05T20:45:50-05:00'
-draft = true
+draft = false
 title = 'Maya Breanne Flannery'
 description = 'Curriculum Vita'
 author = 'Maya'
@@ -218,6 +218,11 @@ Swierczek, K., Spyra, J., & **Flannery, M. B.** (2022). _A tale of two tones: Mu
 ## 5. Teaching Career
 
 ### Teaching assistantships
+
+01/2025
+{.period}
+PNB 2XE3: Descriptive Statistics and Research Methods
+{.description}
 
 09/2022 & 09/2024
 {.period}
