@@ -7,7 +7,7 @@ enableEmoji = true
 
 # Use pagination.pagerSize instead of 'paginate = 20'
 [pagination]
-pagerSize = 6
+pagerSize = 8
 
 [services]
 [services.disqus]
@@ -56,9 +56,7 @@ customCSS = ["css/custom.css"]
 
 [taxonomies]
 category = "categories"
-series = "series"
 tag = "tags"
-author = "authors"
 
 # Social links
 [[params.social]]
@@ -77,7 +75,12 @@ icon = "fa-brands fa-twitter fa-2x"
 weight = 3
 url = "https://twitter.com/mayabflannery/"
 [[params.social]]
-name = ""
+name = "Bluesky"
+icon = "fa-brands fa-bluesky fa-2x"
+weight = 3
+url = "https://bsky.app/profile/mayabflannery.bsky.social"
+[[params.social]]
+name = "Lab Website"
 icon = "fa fa-building-o fa-2x"
 weight = 4
 url = "https://beatlab.mcmaster.ca"
