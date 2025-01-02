@@ -5,7 +5,7 @@ draft = false
 title = 'Naturalistic measurement of multi-person cardiac activity using open source smartwatch technology'
 tags = ['NeuroMusic', 'Music', 'MIR']
 categories = ['Conference', 'Poster']
-description = "Nm 2020 description"
+description = "Outlines the system architecture used to measure PPG signals from multiple individuals in live-music settings."
 +++
 
 Poster presented at [NeuroMusic 20](https://www.neuromusic.ca/posters-2024/p2-9-naturalistic-measurement-of-multi-person-cardiac-activity-using-open-source-smartwatch-technology/), McMaster University, Hamilton, Canada.
