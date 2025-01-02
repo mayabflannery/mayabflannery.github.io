@@ -14,9 +14,9 @@
   <ul>
     {{ range .Paginator.Pages }}
     <li style="flex-wrap: wrap; margin: 2%">
-      <div style="flex-basis: 20%">{{ .Date | time.Format (.Site.Params.dateFormat | default "January 2, 2006" ) }}</div>
-      <div style="flex-basis: 20%"><a class="title" href="{{ .Params.externalLink | default .RelPermalink }}">{{ .Title }}</a></div>
-      <div style="flex-basis: 100%">{{ .Description }}</div>
+      <div style="flex-basis: 100%"><a class="title" href="{{ .Params.externalLink | default .RelPermalink }}">{{ .Title }}</a></div>
+      <div style="flex-basis: 30%">{{ .Date | time.Format (.Site.Params.dateFormat | default "January 2, 2006" ) }}</div>
+      <div style="flex-basis: 100%; font-size: smaller">{{ .Description }}</div>
     </li>
     {{ end }}
   </ul>
