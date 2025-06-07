@@ -6,7 +6,7 @@ description = 'Curriculum Vita'
 author = 'Maya'
 +++
 
-Updated: 2024-11-23
+Updated: 2025-06-06
 {.center}
 
 PhD Candidate | [Department of Psychology, Neuroscience & Behaviour](https://pnb.mcmaster.ca/people/trainees-graduates/grad-students-pnb/) | McMaster University
@@ -26,6 +26,7 @@ Current research position at the [BEATLab](https://beatlab.mcmaster.ca/people.ht
 
 2022--Present
 {.period}
+
 Dept. of Psychology, Neuroscience & Behaviour, McMaster University, ON, Canada
 Areas of study: Psychology, music cognition and perception: Development of multi-person physiological measures and analyses of cardiac activity.
 {.description}
@@ -124,7 +125,7 @@ Shared research through posters, presentations, and publications in departmental
 **Flannery, M.B.**, Schlichting, J., Saxena, S., & Fink, L. (_In prep_). Investigating the influence of contextual information on cardiac activity in response to musical performance.
 {.description}
 
-### Puplications
+### Publications
 
 **Flannery, M. B.**, & Woolhouse, M. H. (2021). Musical preference: Role of personality and music-related acoustic features. _Music & Science_, _4_, 20592043211014014.
 {.description}
@@ -132,11 +133,19 @@ Shared research through posters, presentations, and publications in departmental
 Bansal, J., **Flannery, M. B.**, & Woolhouse, M. H. (2021). Influence of personality on music-genre exclusivity. _Psychology of Music_, _49_(5), 1356-1371.
 {.description}
 
+### Software
+
+**Flannery, M. B.**, & Fink, L. (2025). BEATmonitor (Version v0.2.250427) [Computer software]. [https://github.com/beatlab-mcmaster/BEATmonitor](https://github.com/beatlab-mcmaster/BEATmonitor)
+{.description}
+
 ---
 
 ## 4. Conference Talks & Presentations
 
 ### Conference Presentations
+
+**Flannery, M. B.**, & Fink, L. (2025, July 21--25). _Multi-person photoplethysmography using open-source smartwatch technology Development, validation, and applications in naturalistic music listening_. International Conference on Music Perception and Cognition 18. [Virtual] São Paulo, Brazil.
+{.description}
 
 **Flannery, M. B.**, & Fink, L. (November, 2024). _Naturalistic measurement of multi-person cardiac activity using open source smartwatch technology_ [Poster]. NeuroMusic 20. Hamilton, ON, Canada.
 {.description}
