@@ -2,7 +2,7 @@
 date = '2024-11-05T20:45:50-05:00'
 draft = false
 title = 'Maya Breanne Flannery'
-description = 'Curriculum Vita'
+description = 'Curriculum Vitae'
 author = 'Maya'
 +++
 
